@@ -174,11 +174,11 @@ $$
 
 - 1960년대: 핵전쟁 이후, 강력한 통신 시스템의 필요성이 대두되며 미국에서 인터넷이 발명됨
 
-![webOrigin](./img/Untitled 1.png)
+![webOrigin](./img/Untitled1.png)
 
 - 1990년대에 스위스 유럽입자물리연구소에서 원시웹, 즉 www가 발명됨
 
-![www](./img/Untitled 2.png)
+![www](./img/Untitled2.png)
 
 💡**원시웹**
 
@@ -186,9 +186,9 @@ $$
 
 ## 17. 인터넷을 여는 열쇠: 서버와 클라이언트
 
-![serverAndClient](./img/Untitled 3.png)
+![serverAndClient](./img/Untitled3.png)
 
-![hostingVSserver](./img/Untitled 4.png)
+![hostingVSserver](./img/Untitled4.png)
 
 ---
 
@@ -200,7 +200,7 @@ $$
 
 ## 18. 웹호스팅: github page
 
-![webHosting](./img/Untitled 5.png)
+![webHosting](./img/Untitled5.png)
 
 **Host**
 
@@ -260,7 +260,7 @@ github 레포 - settings - github pages - Source 설정 후 Save
 
 ### http, IP 주소, Port
 
-![http,IP,Port](./img/Untitled 6.png)
+![httpIPPort](./img/Untitled6.png)
 
 ---
 
@@ -286,7 +286,7 @@ github 레포 - settings - github pages - Source 설정 후 Save
 2. 웹브라우저가 IP주소의 컴퓨터 속 포트번호의 웹서버에 index.html 요청
 3. 웹서버가 index.html 파일의 코드를 해석해서 웹브라우저에 전송
 
-![web server](./img/Untitled 7.png)
+![webServer](./img/Untitled7.png)
 
 ## 19.2.3 웹브라우저와 웹 서버의 통신
 
