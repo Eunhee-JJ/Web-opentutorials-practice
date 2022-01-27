@@ -333,7 +333,7 @@ github 레포 - settings - github pages - Source 설정 후 Save
 
 - 공부의 효용은 최소한으로 배워서 최대한으로 써먹는 것이다.
 
-![Untitled](WEB1%20-%20HTML%20&%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%82%E1%85%A6%E1%86%BA%20147b37450f9a42cca4f73389af08e4e0/Untitled%208.png)
+![web](./img/Untitled8.png)
 
 **CSS**
 
